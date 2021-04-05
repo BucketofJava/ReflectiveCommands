@@ -1,0 +1,6 @@
+name: Reflectivecommands
+version: ${project.version}
+main: com.bucketofjava.reflectivecommands.ReflectiveCommands
+api-version: 1.16
+authors: [ BucketofJava ]
+description: Allows you to access functions from plugins using commands
